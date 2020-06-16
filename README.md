@@ -10,3 +10,6 @@ Please be indulgent as this is my first tool developed in Python and Qt.
 Constructive feedback is welcome and you can even ask to contribute if you want to.
 
 Thanks, Jerome Lapeyre-Mirande
+
+![alt text](https://github.com/JeromeLM/p-change/blob/master/captures/capture_checker_visible_pwd.PNG?raw=true)
+![alt_text](https://github.com/JeromeLM/p-change/blob/master/captures/capture_generator_all_rules.PNG?raw=true)
