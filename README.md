@@ -13,3 +13,13 @@ Thanks, Jerome Lapeyre-Mirande
 
 ![alt text](https://github.com/JeromeLM/p-change/blob/master/captures/capture_checker_visible_pwd.PNG?raw=true)
 ![alt_text](https://github.com/JeromeLM/p-change/blob/master/captures/capture_generator_all_rules.PNG?raw=true)
+
+Installation instructions :
+- clone this repository
+- create a virtual environment : python -m venv env
+- activate this virtual environment : source env/Scripts/activate
+- install all the required modules : pip install -r requirements.txt
+
+Use instructions :
+- execute the following command : python main.py
+
